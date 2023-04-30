@@ -5,7 +5,7 @@ const sliderItems = [
   {
     id: 1,
     img: image_01,
-    title: "Summer Sale 02",
+    title: "Summer Sale 01",
     description: "Super cool new sale, Grab it Now!",
     bg: "f5fafd",
   },
