@@ -42,7 +42,11 @@ const popularProducts = [
   },
   {
     id: 8,
-    img: prog_08,
+    img: prog_01,
+  },
+  {
+    id: 8,
+    img: prog_02,
   },
   {
     id: 8,
@@ -50,11 +54,7 @@ const popularProducts = [
   },
   {
     id: 8,
-    img: prog_08,
-  },
-  {
-    id: 8,
-    img: prog_08,
+    img: prog_07,
   },
 ];
 
